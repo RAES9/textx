@@ -1,0 +1,16 @@
+//
+//  Production.xcconfig
+//  testx
+//
+//  Created by RAES on 7/12/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+//URL
+ROOT_URL = https:/$()/de-coding-test.s3.amazonaws.com/
+
+// App Settings
+APP_NAME = testx
+APP_BUNDLE_ID = raes.testx

@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  testx
+
+  Created by RAES on 7/12/21.
+  
+*/
+
+"products" = "Products";
+"detail" = "Detail";
+"add" = "Add to cart";
+"cart" = "Cart";
